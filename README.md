@@ -1,4 +1,4 @@
-![alt](https://scontent.fhan5-7.fna.fbcdn.net/v/t1.0-9/s960x960/83215709_1085662448450296_6847084704923910144_o.jpg?_nc_cat=103&_nc_sid=e3f864&_nc_ohc=-ZTMA2_XvL4AX8RP4rQ&_nc_ht=scontent.fhan5-7.fna&tp=7&oh=37c5146154548e676678a8bf20a178bd&oe=5F7117D7)
+![alt](https://github.com/HungNguyen81/HungNguyen81/blob/master/card%20hois.jpg?raw=true)
 
 ### Hi, i'm HungHois 👋
 
