@@ -1,6 +1,6 @@
-###                         Hi, i'm HungHois 👋
+### Hi, i'm HungHois 😁
 ![alt](https://github.com/HungNguyen81/HungNguyen81/blob/master/card%20hois.jpg?raw=true)
-
+✉️ Contact me: nguyenngochung.ncth@gmail.com
 <!--
 **HungNguyen81/HungNguyen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
