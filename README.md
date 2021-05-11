@@ -1,14 +1,13 @@
 
-
+😁
 <div align="center">
     <img src="myStyle.svg" width="400" height="400" alt="css-in-readme">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact"/>
+    </p>
 </div>
 
-<h1> Hi, i'm HungHois 😁 </h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact"/>
-</p>
 ✉️ Contact me: nguyenngochung.ncth@gmail.com
 <!--
 **HungNguyen81/HungNguyen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
