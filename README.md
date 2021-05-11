@@ -1,5 +1,24 @@
-### Hi, i'm HungHois 😁
-![alt](https://github.com/HungNguyen81/HungNguyen81/blob/master/card%20hois.jpg?raw=true)
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
+img{
+  display: inline-block;
+}
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
+
+<h1> Hi, i'm HungHois 😁 </h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact"/>
+</p>
 ✉️ Contact me: nguyenngochung.ncth@gmail.com
 <!--
 **HungNguyen81/HungNguyen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
