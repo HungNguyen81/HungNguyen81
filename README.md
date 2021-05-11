@@ -1,7 +1,7 @@
 
 😁
 <div align="center">
-    <img src="myStyle.svg" width="400" height="400" alt="css-in-readme">
+    <img src="myStyle.svg" width="200" height="100" alt="css-in-readme">
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact"/>
