@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnguyen81&langs_count=12"/>
+    <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnguyen81&langs_count=12"/-->
 </div>
 
 ✉️ Contact me: nguyenngochung.ncth@gmail.com
