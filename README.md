@@ -3,8 +3,9 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81"/>
 </div>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?HungNguyen81" frameborder="0"></iframe>
+
 ✉️ Contact me: nguyenngochung.ncth@gmail.com
 <!--
 **HungNguyen81/HungNguyen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
