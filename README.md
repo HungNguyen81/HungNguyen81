@@ -2,7 +2,7 @@
 ## HI, I'm Hưng 😁
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true&theme=vue-dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact&theme=vue-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact&theme=vue-dark&láng_count=6"/>
     <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnguyen81&langs_count=12"/-->
 </div>
 
