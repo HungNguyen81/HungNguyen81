@@ -4,7 +4,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81"/>
-    <img src="http://ionicabizau.github.io/github-profile-languages/?user=HungNguyen81"/>
 </div>
 
 ✉️ Contact me: nguyenngochung.ncth@gmail.com
