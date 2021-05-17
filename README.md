@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%2305122A.svg?&logo=c-sharp&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Jquery](https://img.shields.io/badge/jquery-%230769AD.svg?&logo=jquery&logoColor=white)&nbsp;
+![Jquery](https://img.shields.io/badge/jquery-%2305122A.svg?&logo=jquery&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -38,8 +38,8 @@
 
 <a href="https://www.facebook.com/hungnguyen.ncth/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=Facebook&logoColor=white"/></a> &nbsp;
 <a href="mailto:nguyenngochung.ncth@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://instagram.com/nguyen.hung81"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-
+<a href="https://instagram.com/nguyen.hung81"><img src="https://img.shields.io/badge/-@nguyen.hung81-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<!--
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true&theme=vue-dark"/>
 </div>
