@@ -6,7 +6,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Computer Engineering Student at Hanoi University of Science and Technology.\
+💡 &nbsp; I'm Hung, people often call me HungHois.\
 🎓 &nbsp;I'm currently studying Computer Engineering Student at Hanoi University of Science and Technology, HN (2018-2021).\
 🌱 &nbsp;I'm on track for learning more about Web Application, Mobile Application, and Desktop Application.\
 ✍️ &nbsp;In my free time, I play guitar, listen to music and pursue drawing as my hobbies.\
