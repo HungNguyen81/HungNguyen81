@@ -2,15 +2,13 @@
 ## HI, I'm Hưng 😁
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true&theme=vue-dark"/>
-    
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact&theme=vue-dark&langs_count=10"/> -->
-    <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungnguyen81&langs_count=12"/-->
 </div>
 
 ✉️ Contact me: hung.nguyenngoc.nnh@gmail.com
 <!--
 **HungNguyen81/HungNguyen81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact&theme=vue-dark&langs_count=10"/> -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
