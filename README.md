@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Web Application, Mobile Application, and Desktop Application.\
 ✍️ &nbsp;In my free time, I play guitar, listen to music and pursue drawing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics or you just want someone to talk to you!\
-✉️ &nbsp;You can email me at nguyenngochung.ncth@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at nguyenngochung.ncth@gmail.com or hungnguyen81.nnh@gmail.com . I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [CV](https://drive.google.com/file/d/1Ogj5femm52EmP0TfGC-E2ybZRF3DDITT/view?usp=sharing) for more details about work experience.
 
 
