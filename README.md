@@ -3,7 +3,7 @@
 ![version :25.03.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=HungNguyen81&color=red)&nbsp;
 [![GitHub HungNguyen81](https://img.shields.io/github/followers/HungNguyen81?label=follow&style=social)](https://github.com/HungNguyen81)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+<!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm Hung, people often call me HungHois.\
