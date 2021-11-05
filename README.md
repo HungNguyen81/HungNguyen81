@@ -8,7 +8,7 @@
 
 💡 &nbsp; I'm Hung, people often call me HungHois.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Hanoi University of Science and Technology, HN (2018-2021).\
-🌱 &nbsp;I'm on track for learning more about Web Application, Mobile Application, and Desktop Application.\
+🌱 &nbsp;I'm on track for learning more about Web Application, Mobile Application, Desktop Application and so on.\
 ✍️ &nbsp;In my free time, I play guitar, listen to music and pursue drawing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics or you just want someone to talk to you!\
 ✉️ &nbsp;You can email me at nguyenngochung.ncth@gmail.com or hungnguyen81.nnh@gmail.com . I'll try to respond as soon as possible!\
