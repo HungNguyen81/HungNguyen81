@@ -6,12 +6,12 @@
 <!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm Hung, people often call me HungHois.\
+💡 &nbsp; I'm Hung Nguyen.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Hanoi University of Science and Technology, HN (2018-2021).\
 🌱 &nbsp;I'm on track for learning more about Web Application, Mobile Application, Desktop Application and so on.\
-✍️ &nbsp;In my free time, I play guitar, listen to music and pursue drawing as my hobbies.\
+✍️ &nbsp;In my free time, I play guitar, listen to music and draw.\
 💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics or you just want someone to talk to you!\
-✉️ &nbsp;You can email me at nguyenngochung.ncth@gmail.com or hungnguyen81.nnh@gmail.com . I'll try to respond as soon as possible!\
+✉️ &nbsp;You can mail me at nguyenngochung.ncth@gmail.com. I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [CV](https://drive.google.com/file/d/1-vP0lAKQQuudU7mXcVJmWPEg9s7vMGo8/view?usp=sharing) for more details about work experience.
 
 
@@ -31,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![React](https://img.shields.io/badge/react-%2305122A.svg?&logo=react&logoColor=%2361DAFB)&nbsp;
-
+...
 
 ### 📫 &nbsp; How to reach me:
 
