@@ -7,13 +7,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm Hung Nguyen.\
-🎓 &nbsp;I'm currently studying Computer Engineering at Hanoi University of Science and Technology, HN (2018-2021).\
-🌱 &nbsp;I'm on track for learning more about Web Application, Mobile Application, Desktop Application and so on.\
-✍️ &nbsp;In my free time, I play guitar, listen to music and draw.\
+🎓 &nbsp;I studied Computer Engineering at Hanoi University of Science and Technology, HN (2018-2023).\
+🌱 &nbsp;I'm working on Game Development.\
+✍️ &nbsp;In my free time, I play games, play guitar, listen to music and see movies.\
 💬 &nbsp;Feel free to reach out to me for discussions on the aforementioned topics or you just want someone to talk to you!\
 ✉️ &nbsp;You can mail me at nguyenngochung.ncth@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [CV](https://drive.google.com/file/d/1-vP0lAKQQuudU7mXcVJmWPEg9s7vMGo8/view?usp=sharing) for more details about work experience.
-
 
 ### 🛠 &nbsp;Tech Stack
 <!--
@@ -23,20 +21,15 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/c%23-%2305122A.svg?&logo=c-sharp&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Jquery](https://img.shields.io/badge/jquery-%2305122A.svg?&logo=jquery&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![React](https://img.shields.io/badge/react-%2305122A.svg?&logo=react&logoColor=%2361DAFB)&nbsp;
 ...
 
 ### 📫 &nbsp; How to reach me:
 
 
-<a href="https://www.facebook.com/hungnguyen.ncth/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=Facebook&logoColor=white"/></a> &nbsp;
+<a href="https://www.facebook.com/hungnguyen81.nnh/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat&logo=Facebook&logoColor=white"/></a> &nbsp;
 <a href="mailto:nguyenngochung.ncth@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/nguyen.hung81"><img src="https://img.shields.io/badge/-@nguyen.hung81-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <!--
