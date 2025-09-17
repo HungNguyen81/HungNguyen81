@@ -53,12 +53,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/NeiH4207">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=HungNguyen81&row=1&no-bg=true" />
-  </a>
-</p>
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
