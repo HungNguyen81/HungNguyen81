@@ -32,24 +32,22 @@
 
 ## 📂 Featured Projects
 - ♟️ **Chess 3D Online** – PvP chess with socket server (Unity3D + NodeJS).  
-- 🚀 **Mini Space Shooter** – Wave-based shooter with bosses and upgrades.  
+- 🚀 **Infinity Galaga: Space Trigger** – Wave-based shooter with bosses and upgrades. [Gameplay](https://www.youtube.com/watch?v=iFNgpXe6MAk&t=338s)  
 - ✂️ **Toilet Rush Slice Puzzle** – Hypercasual puzzle with creative slicing mechanics. [Gameplay](https://youtube.com/shorts/jo0h7fYe1Zw)  
 - 💎 **Gold Miner: Draw to Collect** – Puzzle game with drawing mechanics. [Gameplay](https://youtube.com/shorts/KwCQsaCH5a8)  
-- 🐕 **Long Dog Run** – Running game with Borzoi dog and upgrade system. [Gameplay](https://youtube.com/watch?v=DczcniIsptY)  
+- 🐕 **Long Dog Run** – Running game with Borzoi dog and upgrade system. [Gameplay](https://www.youtube.com/watch?v=TeH-65W_7Yk&t=14s)  
 - 🔫 **FPS Pro Shooter Gunner Combat** – Toy world FPS with 3 game modes. [Gameplay](https://youtube.com/watch?v=uq4QlqLaGc4)  
 - 👾 **Monster Shooter: FPS Survival** – FPS with Survival, PvP, and Tower Defense. [Gameplay](https://youtube.com/watch?v=qEhhDLGVtDg)  
-- 🥊 **Ragdoll Battle: Endless Fight** – 2D ragdoll simulator with physics interactions. [Google Play](https://play.google.com/store/apps/details?id=com.ixl.hung.ragdoll)  
-- 🎈 **Color Balloon: Match Puzzle** – Match-3 balloon puzzle (Creative Marketing test). [Google Play](https://play.google.com/store/apps/details?id=com.uni.test.game)  
-- 🔵 **Rolling Ball** – Swipe-to-roll puzzle platformer (waiting for CH Play approval).  
+- 🥊 **Ragdoll Battle: Endless Fight** – 2D ragdoll simulator with physics interactions. [Google Play](https://play.google.com/store/apps/details?id=com.ixl.hung.ragdoll) 
+- 🔵 **Racing Ball: Rolling Adventure** – Swipe-to-roll puzzle platformer [Gameplay](https://www.youtube.com/watch?v=xrREUUE_5Ss)  
 
 📥 APKs of some projects: [Google Drive](https://drive.google.com/drive/folders/1e99DdMVF0N1zrv63a00vRFOlzQbW8YP-)  
 
 ---
----
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HungNguyen81&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact&theme=radical)  
 
 ---
 ✨ *“Turning ideas into fun and playable experiences through Unity.”*  
