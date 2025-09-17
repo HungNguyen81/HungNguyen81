@@ -49,13 +49,13 @@
 
 <p align="center">
   <a href="https://github.com/NeiH4207">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiH4207&layout=compact&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungNguyen81&layout=compact&theme=dracula" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NeiH4207">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=HungNguyen81&row=1&no-bg=true" />
   </a>
 </p>
 
