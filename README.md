@@ -46,7 +46,20 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HungNguyen81&show_icons=true&theme=radical)
+
+<p align="center">
+  <a href="https://github.com/NeiH4207">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiH4207&layout=compact&theme=dracula" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/NeiH4207">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=NeiH4207&row=1&no-bg=true" />
+  </a>
+</p>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
 ✨ *“Turning ideas into fun and playable experiences through Unity.”*  
